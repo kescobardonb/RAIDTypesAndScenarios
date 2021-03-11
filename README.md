@@ -8,6 +8,6 @@ RAID is and several type of RAIDs that can be used to improve performance or sec
 
 
 resources:
-https://www.steadfast.net/blog/almost-everything-you-need-know-about-raid
-https://www.youtube.com/watch?v=U-OCdTeZLac&ab_channel=PowerCertAnimatedVideos
-https://en.wikipedia.org/wiki/Standard_RAID_levels
+#https://www.steadfast.net/blog/almost-everything-you-need-know-about-raid
+#https://www.youtube.com/watch?v=U-OCdTeZLac&ab_channel=PowerCertAnimatedVideos
+#https://en.wikipedia.org/wiki/Standard_RAID_levels
