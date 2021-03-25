@@ -16,3 +16,12 @@ Group Members
 Karl Escobar
 Angel Lopez
 Jc Viray
+
+Abstract
+I. Introduction
+II. RAID
+	i. types of RAID
+	ii. levels of RAID
+	iii. Advantages and Disadvantages
+	
+III. Conclusion
