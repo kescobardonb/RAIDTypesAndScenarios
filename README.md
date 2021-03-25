@@ -13,9 +13,9 @@ resources:
 #https://en.wikipedia.org/wiki/Standard_RAID_levels
 
 Group Members
-Karl Escobar
-Angel Lopez
-Jc Viray
+Karl Escobar - Researcher
+Angel Lopez - Researcher
+Jc Viray - Researcher
 
 Abstract
 I. Introduction
@@ -25,6 +25,9 @@ II. RAID
 	iii. Advantages and Disadvantages
 	
 III. Conclusion
+
+
+Citations:
 
 Wikipedia:
 Author(s)*. "Standard RAID levels". Internet: www.en.wikipedia.org/wiki/Standard_RAID_levels, March 23, 2021 []
