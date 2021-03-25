@@ -25,3 +25,13 @@ II. RAID
 	iii. Advantages and Disadvantages
 	
 III. Conclusion
+
+Wikipedia:
+Author(s)*. "Standard RAID levels". Internet: www.en.wikipedia.org/wiki/Standard_RAID_levels, March 23, 2021 []
+
+Blog:
+Author(s)*. "(Almost) Everything You Need to Know About RAID". Internet: www.steadfast.net/blog/almost-everything-you-need-know-about-raid, May 26, 2020 [March 2010]
+
+Youtube:
+Author(s)*. "What is RAID 0, 1, 5, & 10?". Internet: www.youtube.com/watch?v=U-OCdTeZLac, Aug. 10, 2015 []
+
