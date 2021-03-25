@@ -11,6 +11,7 @@ resources:
 #https://www.steadfast.net/blog/almost-everything-you-need-know-about-raid
 #https://www.youtube.com/watch?v=U-OCdTeZLac&ab_channel=PowerCertAnimatedVideos
 #https://en.wikipedia.org/wiki/Standard_RAID_levels
+#https://www.youtube.com/watch?v=eE7Bfw9lFfs
 
 Group Members
 Karl Escobar - Researcher
@@ -29,12 +30,14 @@ III. Conclusion
 
 Citations:
 
-Wikipedia:
 "Standard RAID levels". Internet: www.en.wikipedia.org/wiki/Standard_RAID_levels, March 23, 2021 []
 
-Blog:
 "(Almost) Everything You Need to Know About RAID". Internet: www.steadfast.net/blog/almost-everything-you-need-know-about-raid, May 26, 2020 [March 2010]
 
-Youtube:
 "What is RAID 0, 1, 5, & 10?". Internet: www.youtube.com/watch?v=U-OCdTeZLac, Aug. 10, 2015 []
+
+"RAID 0, RAID 1, RAID 10 - All You Need to Know as Fast As Possible. Internet: RAID 0, RAID 1, RAID 10 - All You Need to Know as Fast As Possible Jan 31, 2013 []
+
+
+
 
