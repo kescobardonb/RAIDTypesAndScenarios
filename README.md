@@ -11,3 +11,8 @@ resources:
 #https://www.steadfast.net/blog/almost-everything-you-need-know-about-raid
 #https://www.youtube.com/watch?v=U-OCdTeZLac&ab_channel=PowerCertAnimatedVideos
 #https://en.wikipedia.org/wiki/Standard_RAID_levels
+
+Group Members
+Karl Escobar
+Angel Lopez
+Jc Viray
