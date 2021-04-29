@@ -22,11 +22,11 @@ Table of contents:
 Abstract
 I. Introduction
 II. RAID
-	i. types of RAID
-	ii. levels of RAID
-	iii. Advantages and Disadvantages
+	i. Hardware vs Software RAID
+	ii. Levels of RAID and its advantages and disadvantages
 	
 III. Conclusion
+
 
 Citations/References:
 
@@ -44,10 +44,17 @@ Work assignments:
 > Jc Viray - Researcher
 
 
+
 Phase III
 Project title: A definitive explanation of RAID types and its use case scenarios
 Team Members: Karl Escobar, JC Viray, Sofia Lopez
 
 Abstract
+	RAID (Redundant Array of Inexpensive Disks) is a type of storage configuration that has several benefits for whatever use case scenario you may have which can be used to improve performance or security of data transfer and storage (can be both). This paper will discuss the different types of RAID, the advantages and disadvantages and how it can be used to achieve better performance and/or better reliability. 
+	
 Topics/resource
+RAID (Redundant Array of Inexpensive Disks)
+
+	RAID is a type of storage system wherein the combination of small multiple disks into a single array, wherein these arrays are read by the computer as a single logical unit drive, are used to store and copy large amounts of data and to protect the data just in case there might be a drive or system failure. It also employs techniques such as disk striping, disk mirroring, and with parity. These multiple disks can be used to achieve different levels of data redundancy, data backup, enhance performance, error/fault tolerance, increased reliability and throughput depending on which type of RAID is being used.
+
 Reference
