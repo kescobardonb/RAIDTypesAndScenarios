@@ -25,7 +25,6 @@ I. Introduction
 II. RAID
 	i. Hardware vs Software RAID
 	ii. Levels of RAID and its advantages and disadvantages
-	
 III. Conclusion
 
 
