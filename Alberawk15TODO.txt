@@ -1,0 +1,13 @@
+Team: Albera
+Members:
+• Karl Escobar
+• JC Viray
+• Sofia Lopez
+
+i. DONE list
+- Draft
+- Phase 2
+
+ii. TODO list
+- Slides for the presentation
+- Add more details and content in Github
