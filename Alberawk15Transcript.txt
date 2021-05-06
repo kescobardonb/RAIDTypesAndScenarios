@@ -1,0 +1,14 @@
+Team Albera
+Members:
+-	Karl Escobar
+-	JC Viray
+-	Sofia Lopez
+
+Transcript:
+Sofia Lopez: 	ano daw gagawin
+Karl Escobar: 	work on project
+Sofia Lopez: 	may bagong issue pala sa github, add more details and content daw dagdagan siguro natin yung sa draft natin and gawin ko nadin yung TODO list.
+Karl Escobar: 	Okay na yun
+Sofia Lopez:	After nun try nadin natin gawin yung sa slides
+JC Viray:	maglalagay din ako ng ibang contents sa slides
+
